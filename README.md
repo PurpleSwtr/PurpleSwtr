@@ -61,7 +61,7 @@
 <h3 align="left">🛠️ Мои проекты:</h3>
 
 [![Image](https://github.com/user-attachments/assets/7c01395e-f061-4246-8153-e3f19ecdbdf3)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
-  
+[![Image](https://github.com/user-attachments/assets/2ba80dd9-97b5-4eb1-822e-627e6a748ee4)](https://github.com/PurpleSwtr/WebSocket-Game-Platform)  
 </div>
 
 <!--
