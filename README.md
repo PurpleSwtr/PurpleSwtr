@@ -49,6 +49,8 @@
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
 <div align="center">
 <table><tr>
 <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=purpleswtr&theme=radical&border_radius=8&locale=ru&short_numbers=true" alt="GitHub Streak" /></a></td>
