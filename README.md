@@ -60,7 +60,7 @@
 
 <h3 align="left">🛠️ Мои проекты:</h3>
 
-[![TeamTaskCRM](https://github.com/user-attachments/assets/08efbafd-49bc-4b28-a50d-c10cce7fe8ba)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
+[![Image](https://github.com/user-attachments/assets/7c01395e-f061-4246-8153-e3f19ecdbdf3)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
   
 </div>
 
