@@ -11,6 +11,7 @@
 <p align="left">Я начинающий Backend разработчик.</p>
 
 <h3 align="left">🛠️ Мои проекты:</h3>
+
 [![TeamTaskCRM](https://github.com/user-attachments/assets/08efbafd-49bc-4b28-a50d-c10cce7fe8ba)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
 <!--
 **PurpleSwtr/PurpleSwtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
