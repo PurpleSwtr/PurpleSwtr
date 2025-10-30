@@ -52,10 +52,12 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 <div align="center">
-<table><tr>
-<td>![purpleswtr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=purpleswtr&theme=dark&hide_border=true)</td>
-<td>![purpleswtr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purpleswtr&theme=dark&show_icons=true&hide_border=true&layout=compact)</td>
-</tr></table>
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=purpleswtr&theme=dark&hide_border=true" alt="Streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpleswtr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"></td>
+  </tr>
+</table>
 </div>
 
 <h3 align="left">🛠️ Мои проекты:</h3>
