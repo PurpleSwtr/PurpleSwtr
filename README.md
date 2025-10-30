@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h2 align="center">📜  Обо мне:</h2>
+<h2 align="center">Обо мне:</h2>
 
 👨‍💻 Начинающий Backend-разработчик  
 🎓 Студент 3 курса по направлению "Информатика и вычислительная техника"
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 🧰 Технологии с которыми я работаю:
+## Технологии с которыми я работаю:
 
 ### Языки программирования:
 
@@ -60,7 +60,7 @@
 </table>
 </div>
 
-<h3 align="left">🛠️ Мои проекты:</h3>
+<h3 align="left">Мои проекты:</h3>
 
 [![Image](https://github.com/user-attachments/assets/7c01395e-f061-4246-8153-e3f19ecdbdf3)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
 [![Image](https://github.com/user-attachments/assets/2ba80dd9-97b5-4eb1-822e-627e6a748ee4)](https://github.com/PurpleSwtr/WebSocket-Game-Platform)  
