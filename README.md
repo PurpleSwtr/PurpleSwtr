@@ -53,8 +53,8 @@
 
 <div align="center">
 <table><tr>
-<td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=purpleswtr&theme=radical&border_radius=8&locale=ru&short_numbers=true" alt="GitHub Streak" /></a></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=purpleswtr&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /></td>
+<td>![purpleswtr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=purpleswtr&theme=dark&hide_border=true)</td>
+<td>![purpleswtr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purpleswtr&theme=dark&show_icons=true&hide_border=true&layout=compact)</td>
 </tr></table>
 </div>
 
