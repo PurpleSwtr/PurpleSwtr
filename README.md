@@ -1,4 +1,4 @@
-<h1 align="center">Привет👋 Меня зовут Михаил!</h1>
+<h1 align="center">Привет, Меня зовут Михаил!</h1>
 
 <div align="center">
   <a href="https://t.me/purpleswtr" target="_blank">
