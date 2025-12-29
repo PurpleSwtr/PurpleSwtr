@@ -14,6 +14,14 @@
 Мой основной фокус — Backend-разработка, также активно изучаю другие области IT (такие как фронтенд, базы данных, DevOps). 
 
 <div align="center">
+  
+## Мои проекты:
+
+[![Image](https://github.com/user-attachments/assets/4323f633-1878-4fbc-9f8c-ac22129c83f9)](https://github.com/PurpleSwtr/Snippet-Hub)
+[![Image](https://github.com/user-attachments/assets/a3f6e460-1db7-4485-853a-bda1b0296823)](https://github.com/PurpleSwtr/WebSocket-Game-Platform)
+[![Image](https://github.com/user-attachments/assets/48d851f5-0cf0-4ee6-aa2b-2fc4e6d83f11)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
+
+## Также веду собственную [Базу знаний](https://purpleswtr.github.io/Utils-Docs/)
 
 ## Технологии с которыми я работаю:
 
@@ -57,12 +65,4 @@
   </tr>
 </table>
 </div>
-
-<h3 align="left">Мои проекты:</h3>
-
-[![Image](https://github.com/user-attachments/assets/2ba80dd9-97b5-4eb1-822e-627e6a748ee4)](https://github.com/PurpleSwtr/WebSocket-Game-Platform)
-[![Image](https://github.com/user-attachments/assets/4323f633-1878-4fbc-9f8c-ac22129c83f9)](https://github.com/PurpleSwtr/Snippet-Hub)
-[![Image](https://github.com/user-attachments/assets/48d851f5-0cf0-4ee6-aa2b-2fc4e6d83f11)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
-
-# Также веду собственную [Базу знаний](https://purpleswtr.github.io/Utils-Docs/).
 </div>
