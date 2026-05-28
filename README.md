@@ -23,7 +23,8 @@
 [![Image](./assets/WebSocketTicTacToe.png)](https://github.com/PurpleSwtr/WebSocket-Game-Platform)
 [![Image](./assets/TeamCRM.png)](https://github.com/PurpleSwtr/Team-Task-Orchestrator)
 
-## Также веду собственную [Базу знаний](https://purpleswtr.github.io/Utils-Docs/)
+## Также веду собственную Базу знаний:
+[![Image](./assets/Baza_znaniy.png)](https://purpleswtr.github.io/Utils-Docs)
 
 ## Технологии с которыми я работаю:
 
