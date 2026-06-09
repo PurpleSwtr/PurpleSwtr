@@ -11,13 +11,13 @@
 Начинающий Backend-разработчик  
 Студент 3 курса по направлению "Информатика и вычислительная техника"
 
-Мой основной фокус — Backend-разработка, также активно изучаю другие области IT (такие как фронтенд, базы данных, DevOps). 
+Моё основное направление — Backend-разработка, также активно изучаю другие области IT (такие как фронтенд, базы данных, DevOps). 
 
 <div align="center">
   
 ## Мои проекты:
 
-[![Image](./assets/Baza_znaniy2.png)](https://purpleswtr.github.io/Utils-Docs)
+[![Image](./assets/Baza_znaniy2.png)](https://github.com/PurpleSwtr/Utils-Docs)
 [![Image](./assets/TechSnippets.png)](https://github.com/PurpleSwtr/Snippet-Hub)
 [![Image](./assets/AppsTracker.png)](https://github.com/PurpleSwtr/AppsTracker)
 [![Image](./assets/P_to_MD.png)](https://github.com/PurpleSwtr/Project-to-MD)
