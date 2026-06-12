@@ -31,6 +31,7 @@
     </td>
     <td width="20%" valign="top">
       <img src="https://img.shields.io/github/last-commit/PurpleSwtr/Utils-Docs?&logo=github" alt="GitHub last commit" />
+      <img src="https://img.shields.io/github/actions/workflow/status/PurpleSwtr/Utils-Docs/mkdocs.yml?label=Build&logo=github" alt="Build Status" />
     </td>
     <td width="40%" valign="top">
       <img src="https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white" alt="Python" />
@@ -39,7 +40,6 @@
         <img src="https://img.shields.io/badge/Nuxt_UI-v4-00DC82?logo=nuxt&logoColor=white" alt="Nuxt UI" />
         <img src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/MkDocs-Material-546d78?logo=materialformkdocs&logoColor=white" alt="MkDocs" />
-        <img src="https://img.shields.io/github/actions/workflow/status/PurpleSwtr/Utils-Docs/mkdocs.yml?label=Build&logo=github" alt="Build Status" />
         <img src="https://img.shields.io/github/license/PurpleSwtr/Utils-Docs?color=blue" alt="License" />
   </tr>
 </table>
@@ -85,6 +85,8 @@
     </td>
     <td width="20%" valign="top">
       <img src="https://img.shields.io/github/last-commit/PurpleSwtr/Project-to-MD?&logo=github" alt="GitHub last commit" />
+      <img src="https://img.shields.io/github/release-date/PurpleSwtr/Project-to-MD?&logo=github" alt="Release Date" />
+      <img src="https://img.shields.io/github/v/release/PurpleSwtr/Project-to-MD?&logo=github" alt="Release" />
     </td>
     <td width="40%" valign="top">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
