@@ -39,6 +39,7 @@
         <img src="https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
         <img src="https://img.shields.io/badge/Nuxt_UI-v4-00DC82?logo=nuxt&logoColor=white" alt="Nuxt UI" />
         <img src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Nginx-1.30.x-009639?logo=nginx&logoColor=white" alt="Nginx" />
         <img src="https://img.shields.io/badge/MkDocs-Material-546d78?logo=materialformkdocs&logoColor=white" alt="MkDocs" />
         <img src="https://img.shields.io/github/license/PurpleSwtr/Utils-Docs?color=blue" alt="License" />
   </tr>
