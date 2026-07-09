@@ -20,6 +20,32 @@
 <table>
   <tr>
     <td colspan="3" align="center">
+      <a href="https://github.com/PurpleSwtr/docstr-health">
+        <img src="./assets/docstr-health-badge.png" alt="Image" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" valign="top">
+      CLI-инструмент для оценки качества докстрингов в Python-проектах с Rich-визуализацией. Сканирует локальные папки, Git-репозитории и PyPI-пакеты.
+    </td>
+    <td width="20%" valign="top">
+      <img src="https://img.shields.io/github/last-commit/PurpleSwtr/docstr-health?&logo=github" alt="GitHub last commit" />
+      <img src="https://img.shields.io/pypi/v/docstr-health?logo=pypi" alt="PyPI version" />
+      <img src="https://img.shields.io/pypi/pyversions/docstr-health" alt="Python versions" />
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Rich-15.0+-FF6B6B?logo=python&logoColor=white" alt="Rich" />
+      <img src="https://img.shields.io/badge/CLI-argparse-000000?logo=gnubash&logoColor=white" alt="CLI" />
+      <img src="https://img.shields.io/badge/AST-parser-8B5CF6?logo=python&logoColor=white" alt="AST" />
+      <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json" alt="Build Tool" />
+      <img src="https://img.shields.io/github/license/PurpleSWTR/docstr-health?color=2E7D32" alt="License">
+  </tr>
+</table>
+<table>
+  <tr>
+    <td colspan="3" align="center">
       <a href="https://github.com/PurpleSwtr/Utils-Docs">
         <img src="./assets/Baza_znaniy2.png" alt="Image" />
       </a>
