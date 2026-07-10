@@ -30,6 +30,7 @@
       CLI-инструмент для оценки качества докстрингов в Python-проектах с Rich-визуализацией. Сканирует локальные папки, Git-репозитории и PyPI-пакеты.
     </td>
     <td width="20%" valign="top">
+      <img src="https://img.shields.io/github/stars/PurpleSwtr/docstr-health?style=social" alt="GitHub stars">
       <img src="https://img.shields.io/github/last-commit/PurpleSwtr/docstr-health?&logo=github" alt="GitHub last commit" />
       <img src="https://img.shields.io/pypi/v/docstr-health?logo=pypi" alt="PyPI version" />
       <img src="https://img.shields.io/pypi/pyversions/docstr-health" alt="Python versions" />
