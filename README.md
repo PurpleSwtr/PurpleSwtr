@@ -111,8 +111,8 @@
       Расширение для VS Code для быстрой конвертации проекта в .md файл с учётом структуры папок.
     </td>
     <td width="20%" valign="top">
+      <img src="https://img.shields.io/github/stars/PurpleSwtr/Project-to-MD?style=social" alt="GitHub stars">
       <img src="https://img.shields.io/github/last-commit/PurpleSwtr/Project-to-MD?&logo=github" alt="GitHub last commit" />
-      <img src="https://img.shields.io/github/release-date/PurpleSwtr/Project-to-MD?&logo=github" alt="Release Date" />
       <img src="https://img.shields.io/github/v/release/PurpleSwtr/Project-to-MD?&logo=github" alt="Release" />
     </td>
     <td width="40%" valign="top">
