@@ -10,7 +10,14 @@
   
 Студент 4 курса по направлению "Информатика и вычислительная техника"
 
-Занимаюсь Backend-разработкой, также активно изучаю другие области IT (такие как фронтенд, базы данных, DevOps). 
+Занимаюсь в основном Backend-разработкой, также активно изучаю другие области IT (такие как фронтенд, базы данных, DevOps). 
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=PurpleSwtr&theme=calm&hide_border=true&border_radius=16&locale=ru&hide_current_streak=true" alt="Streak"></td>
+    <td><img src="https://leetcard.jacoblin.cool/PurpleSweater?border=0&radius=20&theme=nord" alt="LeetCode Stats"</td>
+  </tr>
+</table>
 
 <div align="center">
   
@@ -240,12 +247,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=purpleswtr&theme=dark&hide_border=true" alt="Streak"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpleswtr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"></td>
-  </tr>
-</table>
-</div>
+
 </div>
