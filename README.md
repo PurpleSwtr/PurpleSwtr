@@ -1,23 +1,30 @@
-<h1 align="center">Привет, Меня зовут Михаил!</h1>
+<h1 align="center">Привет, меня зовут Михаил!</h1>
+
+  
+Студент 4 курса по направлению "Информатика и вычислительная техника"
+
+Занимаюсь в основном Backend-разработкой, также активно изучаю другие области, такие как фронтенд, базы данных и DevOps. 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=PurpleSwtr&theme=calm&hide_border=true&border_radius=16&locale=ru&hide_current_streak=true" alt="Streak">
+      <br>
+      <a>Статистика активности</a>
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/PurpleSweater?border=0&radius=20&theme=nord" alt="LeetCode Stats">
+      <br>
+      <a href="https://github.com/PurpleSwtr/LeetCode-submissions">Репозиторий решений</a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://t.me/purpleswtr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
-
-<h2 align="center">Обо мне:</h2>
-  
-Студент 4 курса по направлению "Информатика и вычислительная техника"
-
-Занимаюсь в основном Backend-разработкой, также активно изучаю другие области IT (такие как фронтенд, базы данных, DevOps). 
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=PurpleSwtr&theme=calm&hide_border=true&border_radius=16&locale=ru&hide_current_streak=true" alt="Streak"></td>
-    <td><img src="https://leetcard.jacoblin.cool/PurpleSweater?border=0&radius=20&theme=nord" alt="LeetCode Stats"</td>
-  </tr>
-</table>
 
 <div align="center">
   
