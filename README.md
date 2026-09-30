@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=PurpleSwtr&theme=calm&hide_border=true&border_radius=16&locale=ru&hide_current_streak=true" alt="Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=PurpleSwtr&theme=calm&hide_border=true&border_radius=16&locale=ru" alt="Streak">
       <br>
       <a>Статистика активности</a>
     </td>
