@@ -39,6 +39,7 @@
     <td width="20%" valign="top">
       <img src="https://img.shields.io/github/stars/PurpleSwtr/docstr-health?style=social" alt="GitHub stars">
       <img src="https://img.shields.io/github/last-commit/PurpleSwtr/docstr-health?&logo=github" alt="GitHub last commit" />
+      <img src="https://github.com/PurpleSwtr/docstr-health/actions/workflows/tests.yml/badge.svg" alt="tests">
       <img src="https://img.shields.io/pypi/v/docstr-health?logo=pypi" alt="PyPI version" />
       <img src="https://img.shields.io/pypi/pyversions/docstr-health" alt="Python versions" />
     </td>
