@@ -41,10 +41,9 @@
       <img src="https://img.shields.io/github/last-commit/PurpleSwtr/docstr-health?&logo=github" alt="GitHub last commit" />
       <img src="https://github.com/PurpleSwtr/docstr-health/actions/workflows/tests.yml/badge.svg" alt="tests">
       <img src="https://img.shields.io/pypi/v/docstr-health?logo=pypi" alt="PyPI version" />
-      <img src="https://img.shields.io/pypi/pyversions/docstr-health" alt="Python versions" />
     </td>
     <td width="40%" valign="top">
-      <img src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/pypi/pyversions/docstr-health?logo=python&logoColor=white" alt="Python versions" />
       <img src="https://img.shields.io/badge/Rich-15.0+-FF6B6B?logo=python&logoColor=white" alt="Rich" />
       <img src="https://img.shields.io/badge/CLI-argparse-000000?logo=gnubash&logoColor=white" alt="CLI" />
       <img src="https://img.shields.io/badge/AST-parser-8B5CF6?logo=python&logoColor=white" alt="AST" />
